@@ -1,0 +1,318 @@
+,genre,artist,track,date_entered,date_peaked
+0,Rock,Destiny's Child,Independent Women Part I,2000-09-23,2000-11-18
+1,Rock,Santana,"Maria, Maria",2000-02-12,2000-04-08
+2,Rock,Savage Garden,I Knew I Loved You,1999-10-23,2000-01-29
+3,Rock,Madonna,Music,2000-08-12,2000-09-16
+4,Rock,"Aguilera, Christina",Come On Over Baby (All I Want Is You),2000-08-05,2000-10-14
+5,Rock,Janet,Doesn't Really Matter,2000-06-17,2000-08-26
+6,Rock,Destiny's Child,Say My Name,1999-12-25,2000-03-18
+7,Latin,"Iglesias, Enrique",Be With You,2000-04-01,2000-06-24
+8,Rock,Sisqo,Incomplete,2000-06-24,2000-08-12
+9,Country,Lonestar,Amazed,1999-06-05,2000-03-04
+10,Rock,N'Sync,It's Gonna Be Me,2000-05-06,2000-07-29
+11,Rock,"Aguilera, Christina",What A Girl Wants,1999-11-27,2000-01-15
+12,Rock,Vertical Horizon,Everything You Want,2000-01-22,2000-07-15
+13,Rock,Creed,With Arms Wide Open,2000-05-13,2000-11-11
+14,Rock,Aaliyah,Try Again,2000-03-18,2000-06-17
+15,Rock,matchbox twenty,Bent,2000-04-29,2000-07-22
+16,Rock,"Carey, Mariah",Thank God I Found You,1999-12-11,2000-02-19
+17,Rap,"Hill, Faith",Breathe,1999-11-06,2000-04-22
+18,Rock,Mya,Case Of The Ex (Whatcha Gonna Do),2000-08-19,2000-12-02
+19,Rock,Dream,He Loves U Not,2000-09-30,2000-12-30
+20,Rock,"Braxton, Toni",He Wasn't Man Enough,2000-03-18,2000-05-06
+21,Latin,"Anthony, Marc",You Sang To Me,2000-02-26,2000-06-03
+22,Rock,98¡,Give Me Just One Night (Una Noche),2000-08-19,2000-09-30
+23,Rock,Destiny's Child,Jumpin' Jumpin',2000-05-13,2000-08-19
+24,Rock,3 Doors Down,Kryptonite,2000-04-08,2000-11-11
+25,Rock,Sisqo,Thong Song,2000-01-29,2000-05-20
+26,Rock,"Aguilera, Christina",I Turn To You,2000-04-15,2000-07-01
+27,Rock,"Houston, Whitney",My Love Is Your Love,1999-09-04,2000-01-08
+28,Rock,Joe,I Wanna Know,2000-01-01,2000-07-01
+29,Rap,"Jordan, Montell",Get It On.. Tonite,1999-10-23,2000-02-12
+30,Rock,N'Sync,Bye Bye Bye,2000-01-29,2000-04-15
+31,Rap,Eminem,The Real Slim Shady,2000-05-06,2000-06-24
+32,Rock,Pink,Most Girls,2000-08-12,2000-11-25
+33,Rock,"Mumba, Samantha",Gotta Tell You,2000-09-09,2000-12-09
+34,Pop,Blaque,Bring It All To Me,1999-10-23,2000-01-22
+35,Rap,"Elliott, Missy ""Misdemeanor""",Hot Boyz,1999-11-27,2000-01-08
+36,Rock,"Gray, Macy",I Try,2000-02-19,2000-05-20
+37,Rock,N'Sync,This I Promise You,2000-09-30,2000-12-02
+38,Rock,Ruff Endz,No More,2000-07-01,2000-09-02
+39,Rock,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,2000-01-01,2000-03-18
+40,Rock,Nine Days,Absolutely (Story Of A Girl),2000-05-06,2000-07-22
+41,Rock,"Dion, Celine",That's The Way It Is,1999-11-13,2000-03-04
+42,Rock,Blink-182,All The Small Things,1999-12-04,2000-02-19
+43,Electronica,Eiffel 65,Blue (Da Ba Dee),1999-12-11,2000-01-29
+44,Rock,"Badu, Erkyah",Bag Lady,2000-08-19,2000-10-07
+45,Rock,Pink,There U Go,2000-03-04,2000-04-08
+46,Rock,Creed,Higher,1999-09-11,2000-07-22
+47,Rap,Nelly,(Hot S**t) Country Grammar,2000-04-29,2000-09-16
+48,Rock,Next,Wifey,2000-05-27,2000-09-09
+49,Jazz,Kenny G,Auld Lang Syne (The Millenium Mix),1999-12-25,2000-01-08
+50,Rock,Sonique,It Feels So Good,2000-01-22,2000-04-22
+51,Rock,"Spears, Britney",Oops!.. I Did It Again,2000-04-22,2000-06-10
+52,Rock,"Backstreet Boys, The",Shape Of My Heart,2000-10-14,2000-12-02
+53,Rock,Everclear,Wonderful,2000-07-08,2000-09-30
+54,Rap,Ja Rule,Between Me And You,2000-09-16,2000-11-18
+55,Country,"Rimes, LeAnn",I Need You,2000-05-27,2000-08-12
+56,Rock,Smash Mouth,Then The Morning Comes,1999-10-30,2000-01-29
+57,Rap,Jay-Z,I Just Wanna Love U (Give It 2 Me),2000-10-28,2000-12-30
+58,Rock,Jagged Edge,Let's Get Married,2000-05-06,2000-07-29
+59,Rock,Filter,Take A Picture,1999-11-27,2000-02-05
+60,Latin,"Martin, Ricky",She Bangs,2000-10-07,2000-12-02
+61,Rap,Mystikal,Shake Ya Ass,2000-08-12,2000-10-28
+62,Rock,BBMak,Back Here,2000-04-29,2000-07-29
+63,Rock,"Spears, Britney",From The Bottom Of My Broken Heart,2000-01-29,2000-02-26
+64,Rock,Third Eye Blind,Never Let You Go,2000-01-22,2000-04-01
+65,Rock,Red Hot Chili Peppers,Otherside,2000-02-12,2000-05-27
+66,R&B,Profyle,Liar,2000-09-16,2000-10-28
+67,Rock,Barenaked Ladies,Pinch Me,2000-09-09,2000-11-25
+68,Rock,Jagged Edge,He Can't Love U,1999-12-11,2000-01-08
+69,Rap,504 Boyz,Wobble Wobble,2000-04-15,2000-05-06
+70,Rock,Sting,Desert Rose,2000-05-13,2000-08-26
+71,Rap,Jay-Z,Big Pimpin',2000-04-22,2000-07-08
+72,Rock,Kid Rock,Only God Knows Why,2000-02-19,2000-04-15
+73,Rock,Foo Fighters,Learn To Fly,1999-10-16,2000-01-22
+74,Country,"Dixie Chicks, The",Goodbye Earl,2000-03-18,2000-05-06
+75,R&B,Guy,Dancin',1999-12-18,2000-01-01
+76,Rap,Lil Bow Wow,Bounce With Me,2000-08-19,2000-09-16
+77,Rock,Westlife,Swear It Again,2000-04-01,2000-07-01
+78,Rock,Train,Meet Virginia,1999-10-09,2000-01-22
+79,Rock,"Thomas, Carl",I Wish,2000-03-25,2000-05-13
+80,Country,Hanson,This Time Around,2000-04-22,2000-05-06
+81,Pop,"Simpson, Jessica",I Think I'm In Love With You,2000-07-01,2000-08-12
+82,Rap,Ludacris,What's Your Fantasy,2000-09-30,2000-12-16
+83,Rap,Lil' Zane,Callin' Me,2000-07-29,2000-09-02
+84,Pop,M2M,Don't Say You Love Me,1999-11-20,2000-01-08
+85,Rock,SoulDecision,Faded,2000-07-08,2000-09-09
+86,Country,"Brock, Chad",Yes!,2000-04-08,2000-07-01
+87,Latin,"Martin, Ricky",Shake Your Bon-Bon,1999-11-20,2000-02-12
+88,Rock,Vertical Horizon,You're A God,2000-08-26,2000-11-04
+89,Rock,Avant,Separated,2000-04-29,2000-05-20
+90,Country,"Rimes, LeAnn",Big Deal,1999-10-16,2000-01-01
+91,Rap,IMx,Stay The Night,1999-10-09,2000-01-08
+92,Rap,Dr. Dre,The Next Episode,2000-05-27,2000-07-29
+93,Rock,"Spears, Britney",Lucky,2000-08-12,2000-09-09
+94,Rock,Savage Garden,Crash And Burn,2000-04-08,2000-05-27
+95,Rock,Kandi,Don't Think I'm Not,2000-08-05,2000-10-07
+96,Rock,Sammie,I Like It,2000-01-29,2000-04-15
+97,Rock,Goo Goo Dolls,Broadway,2000-04-22,2000-07-01
+98,Pop,"Moore, Mandy",I Wanna Be With You,2000-06-17,2000-08-12
+99,Rap,Dr. Dre,Forgot About Dre,2000-01-22,2000-03-25
+100,R&B,D'Angelo,Untitled (How Does It Feel),2000-01-22,2000-02-19
+101,Country,"Messina, Jo Dee",That's The Way,2000-06-24,2000-08-26
+102,Rock,Avant,My First Love,2000-11-04,2000-12-16
+103,Latin,Son By Four,A Puro Dolor (Purest Of Pain),2000-04-08,2000-08-19
+104,Rap,Da Brat,What'Chu Like,2000-06-03,2000-08-12
+105,Rap,DMX,Party Up (Up In Here),2000-02-26,2000-04-22
+106,Country,"Dixie Chicks, The",Cowboy Take Me Away,1999-11-27,2000-01-29
+107,Country,"McGraw, Tim",My Next Thirty Years,2000-10-21,2000-12-16
+108,Country,"Tritt, Travis",Best Of Intentions,2000-08-19,2000-12-02
+109,Electronica,Alice Deejay,Better Off Alone,2000-04-08,2000-06-03
+110,Pop,Hoku,Another Dumb Blonde,2000-02-19,2000-04-08
+111,Rock,"Houston, Whitney",I Learned From The Best,2000-02-19,2000-03-25
+112,Rock,Counting Crows,Hanginaround,1999-11-06,2000-01-29
+113,Rock,Mary Mary,Shackles (Praise You),2000-03-25,2000-05-13
+114,Rock,"Carey, Mariah",Crybaby,2000-06-24,2000-06-24
+115,Country,"McGraw, Tim",My Best Friend,1999-11-27,2000-01-29
+116,Rock,Sugar Ray,Falls Apart,2000-01-15,2000-02-19
+117,Rock,Madonna,American Pie,2000-02-19,2000-03-04
+118,Rock,"Jones, Donell",Where I Wanna Be,2000-04-22,2000-07-08
+119,Country,"Paisley, Brad",We Danced,2000-10-14,2000-12-16
+120,Country,Lonestar,What About Now,2000-06-10,2000-08-19
+121,Rock,"Backstreet Boys, The",The One,2000-05-27,2000-07-01
+122,Country,"Keith, Toby",How Do You Like Me Now?!,2000-01-29,2000-04-08
+123,Country,"Strait, George",The Best Day,2000-01-29,2000-04-22
+124,Country,"Dixie Chicks, The",Without You,2000-10-07,2000-12-23
+125,Rap,Musiq,Just Friends (Sunny),2000-10-14,2000-12-30
+126,Country,"McEntire, Reba",What Do You Say,1999-10-30,2000-01-29
+127,Rock,"Braxton, Toni",Just Be A Man About It,2000-07-29,2000-09-02
+128,Latin,"Iglesias, Enrique",Rhythm Divine,1999-12-04,2000-01-22
+129,Pop,"Fabian, Lara",I Will Love Again,2000-06-10,2000-08-12
+130,Rock,Bon Jovi,It's My Life,2000-08-12,2000-09-30
+131,Country,"Evans, Sara",Born To Fly,2000-10-21,2000-12-30
+132,Country,"Chesney, Kenny",I Lost It,2000-10-21,2000-12-23
+133,R&B,J-Shin,One Night Stand,1999-12-25,2000-02-26
+134,Rap,Eve,Love Is Blind,2000-01-08,2000-02-19
+135,Rock,Aaliyah,I Don't Wanna,2000-01-29,2000-03-04
+136,Country,"Montgomery, John Michael",The Little Girl,2000-09-09,2000-10-28
+137,R&B,"Carter, Aaron",Aaron's Party (Come Get It),2000-08-26,2000-09-16
+138,Country,"Vassar, Phil",Just Another Day In Paradise,2000-09-30,2000-12-02
+139,Rap,Ice Cube,You Can Do It,1999-12-04,2000-01-15
+140,Country,"Wills, Mark",Back At One,2000-01-15,2000-02-26
+141,R&B,Lucy Pearl,Dance Tonight,2000-05-20,2000-07-29
+142,Country,"Jackson, Alan",It Must Be Love,2000-06-24,2000-09-02
+143,Country,"Griggs, Andy",She's More,2000-03-11,2000-06-10
+144,Rock,No Doubt,Simple Kind Of Life,2000-07-01,2000-07-22
+145,Rap,"Jean, Wyclef",911,2000-10-07,2000-11-25
+146,Country,Rascal Flatts,Prayin' For Daylight,2000-05-06,2000-08-12
+147,Rock,Vitamin C,Graduation (Friends Forever),2000-04-15,2000-06-10
+148,Country,"Gilman, Billy",One Voice,2000-06-17,2000-09-02
+149,Country,Lonestar,Smile,1999-12-18,2000-02-12
+150,Country,"Rogers, Kenny",Buy Me A Rose,2000-03-11,2000-05-06
+151,Country,"Lawrence, Tracy",Lessons Learned,2000-01-29,2000-04-08
+152,Country,"Strait, George",Go On,2000-08-26,2000-10-28
+153,Rock,Sisqo,Got To Get It,1999-11-20,2000-01-22
+154,R&B,Baha Men,Who Let The Dogs Out,2000-07-22,2000-10-21
+155,Country,"Walker, Clay",The Chain Of Love,2000-04-15,2000-06-10
+156,Country,"McBride, Martina",Love's The Only House,2000-02-05,2000-04-15
+157,Rock,Amber,Sexual (Li Da Di),1999-07-17,2000-02-12
+158,Country,"Tippin, Aaron",Kiss This,2000-08-26,2000-10-21
+159,Country,SheDaisy,I Will.. But,2000-07-15,2000-09-16
+160,Country,"Raye, Collin",Couldn't Last A Moment,2000-03-18,2000-06-24
+161,Rap,Black Rob,Whoa!,2000-03-04,2000-04-15
+162,Country,"Jackson, Alan",Pop A Top,1999-11-13,2000-01-22
+163,Country,"Black, Clint",Been There,2000-02-19,2000-04-15
+164,Rap,Common,The Light,2000-08-05,2000-09-09
+165,Country,"Vassar, Phil",Carlene,2000-03-04,2000-04-22
+166,Country,"Jackson, Alan",www.memory,2000-11-04,2000-12-23
+167,Rock,Vitamin C,The Itch,2000-12-02,2000-12-16
+168,Rap,"Eastsidaz, The",G'D Up,2000-01-08,2000-02-12
+169,R&B,Ideal,Whatever,2000-06-10,2000-08-19
+170,Rock,"Thomas, Carl",Emotional,2000-11-25,2000-12-30
+171,Rock,Ginuwine,None Of Ur Friends Business,1999-12-11,2000-01-22
+172,Country,"Davidson, Clay",Unconditional,2000-03-25,2000-06-17
+173,Rap,DMX,What You Want,2000-07-01,2000-09-23
+174,Rock,"John, Elton",Someday Out Of The Blue,2000-04-22,2000-05-06
+175,Rock,Pearl Jam,Nothing As It Seems,2000-05-13,2000-05-13
+176,Rock,Mya,The Best Of Me,2000-04-15,2000-05-20
+177,Country,"Heatherly, Eric",Flowers On The Wall,2000-04-29,2000-08-12
+178,Rap,Eminem,Stan,2000-11-04,2000-12-02
+179,Country,"McEntire, Reba",I'll Be,2000-05-13,2000-07-29
+180,Latin,"Lopez, Jennifer",Feelin' Good,2000-02-19,2000-04-08
+181,Country,"Urban, Keith",Your Everything,2000-07-15,2000-09-16
+182,Rock,TLC,Dear Lie,2000-02-12,2000-03-04
+183,Country,"Gill, Vince",Feels Like Love,2000-09-02,2000-11-18
+184,Rock,"Houston, Whitney",Could I Have This Kiss Forever,2000-06-17,2000-08-05
+185,R&B,Bloodhound Gang,The Bad Touch,2000-03-18,2000-04-15
+186,Rock,"Williams, Robbie",Angels,1999-11-20,2000-01-22
+187,Country,"Messina, Jo Dee",Because You Love Me,2000-01-29,2000-03-11
+188,Country,"Keith, Toby",Country Comes To Town,2000-08-05,2000-10-14
+189,Reggae,Beenie Man,Girls Dem Sugar,2000-10-21,2000-12-02
+190,Rap,"Hill, Faith",Let's Make Love,2000-08-12,2000-10-21
+191,R&B,Kelis,Caught Out There,1999-12-04,2000-01-08
+192,Rap,Jay-Z,Anything,2000-02-26,2000-03-11
+193,Rock,3 Doors Down,Loser,2000-10-21,2000-12-02
+194,Country,Brooks & Dunn,You'll Always Be Loved By Me,2000-06-10,2000-09-09
+195,Country,"Chesney, Kenny",What I Need To Do,2000-04-01,2000-06-10
+196,R&B,"Stone, Angie",No More Rain (In This Cloud),1999-12-25,2000-01-22
+197,Rap,Da Brat,That's What I'm Looking For,2000-02-26,2000-04-15
+198,Country,SheDaisy,This Woman Needs,2000-02-05,2000-03-04
+199,Rock,Papa Roach,Last Resort,2000-07-29,2000-12-02
+200,Gospel,"Adams, Yolanda",Open My Heart,2000-08-26,2000-10-21
+201,Rap,Shyne,Bad Boyz,2000-09-09,2000-10-28
+202,Rock,R.E.M.,The Great Beyond,1999-12-25,2000-01-29
+203,Country,"Diffie, Joe",It's Always Somethin',2000-08-12,2000-09-16
+204,Country,"McGraw, Tim",Some Things Never Change,2000-05-13,2000-07-01
+205,Rock,"Henley, Don",Taking You Home,2000-06-24,2000-08-05
+206,Rap,Eminem,The Way I Am,2000-08-26,2000-09-30
+207,R&B,Nas,You Owe Me,2000-03-25,2000-04-15
+208,Rock,Sister Hazel,Change Your Mind,2000-07-15,2000-08-05
+209,Rap,Puff Daddy,Best Friend,2000-02-12,2000-02-19
+210,Country,"McBride, Martina",There You Are,2000-09-09,2000-10-21
+211,Rock,Usher,Pop Ya Collar,2000-11-04,2000-11-18
+212,Rap,Lil' Kim,No Matter What They Say,2000-07-15,2000-08-05
+213,Rock,LFO,I Don't Wanna Kiss You Goodnight,2000-04-15,2000-04-22
+214,Country,SheDaisy,Deck The Halls,1999-12-25,2000-01-01
+215,R&B,Splender,I Think God Can Explain,2000-06-10,2000-06-24
+216,Rock,"Simpson, Jessica",Where You Are,2000-04-01,2000-04-15
+217,Pop,M2M,Mirror Mirror,2000-04-01,2000-05-27
+218,R&B,Kumbia Kings,U Don't Love Me,2000-03-04,2000-03-18
+219,Rock,Joe,Treat Her Like A Lady,2000-08-05,2000-08-19
+220,Rock,"Blige, Mary J.",Deep Inside,1999-11-13,2000-01-22
+221,Rock,"Price, Kelly",You Should've Told Me,2000-09-23,2000-12-02
+222,Rock,Changing Faces,That Other Woman,2000-09-30,2000-10-28
+223,R&B,"Wright, Chely",It Was,2000-03-04,2000-04-15
+224,Rock,Limp Bizkit,Rollin',2000-11-11,2000-12-09
+225,Rap,Hot Boys,I Need A Hot Girl,2000-02-19,2000-03-11
+226,Rap,Jay-Z,Do It Again (Put Ya Hands Up),2000-01-15,2000-01-29
+227,Country,"Adkins, Trace",More,2000-04-29,2000-06-17
+228,Country,"Dixie Chicks, The",Cold Day In July,2000-06-24,2000-08-05
+229,Rock,"Price, Kelly",As We Lay,2000-07-15,2000-08-05
+230,Rap,DMX,What's My Name,2000-01-15,2000-02-12
+231,Latin,"Martin, Ricky",Private Emotion,2000-03-11,2000-03-18
+232,Rock,Nine Days,If I Am,2000-12-02,2000-12-02
+233,Rock,"Blige, Mary J.",Give Me You,2000-04-15,2000-05-13
+234,Rock,Red Hot Chili Peppers,Californication,2000-07-29,2000-10-14
+235,Rock,Third Eye Blind,Deep Inside Of You,2000-09-02,2000-10-07
+236,Country,"Brooks, Garth",Do What You Gotta Do,2000-02-19,2000-03-18
+237,Rock,"Offspring, The",Original Prankster,2000-11-25,2000-12-09
+238,Latin,"Anthony, Marc",My Baby You,2000-09-16,2000-10-07
+239,Rock,"Houston, Whitney","Same Script, Different Cast",2000-06-17,2000-07-15
+240,R&B,D'Angelo,Left & Right,1999-12-11,2000-01-01
+241,Rock,"Kravitz, Lenny",I Belong To You,2000-03-25,2000-04-08
+242,Country,"Loveless, Patty",That's The Kind Of Mood I'm In,2000-09-16,2000-11-18
+243,Rock,Q-Tip,Breathe And Stop,2000-01-22,2000-01-22
+244,Country,"Rimes, LeAnn",Can't Fight The Moonlight,2000-09-09,2000-09-16
+245,Rap,Lil Wayne,Tha Block Is Hot,1999-12-04,2000-01-08
+246,Rap,2 Pac,Baby Don't Cry (Keep Ya Head Up II),2000-02-26,2000-03-11
+247,Rock,"Wallflowers, The",Sleepwalker,2000-10-28,2000-10-28
+248,Rap,Drama,"Left, Right, Left",2000-02-12,2000-03-18
+249,Rock,Limp Bizkit,N 2 Gether Now,1999-12-04,2000-01-08
+250,Rap,Lox,"Ryde or Die, Chick",2000-03-18,2000-03-25
+251,Rap,Ying Yang Twins,Whistle While You Twurk,2000-03-18,2000-04-29
+252,Country,"Walker, Clay","Live, Laugh, Love",1999-12-04,2000-01-22
+253,Rock,Metallica,No Leaf Clover (Live),2000-02-12,2000-03-11
+254,Country,Yankee Grey,Another Nine Minutes,2000-04-29,2000-05-20
+255,Rock,"Bega, Lou",Tricky Tricky ,2000-01-29,2000-02-05
+256,Rap,Big Punisher,It's So Hard,2000-04-22,2000-05-06
+257,Country,"Worley, Darryl",When You Need My Love,2000-06-17,2000-09-02
+258,Rap,Lil' Kim,How Many Licks?,2000-11-25,2000-12-02
+259,Country,"Clark, Terri",A Little Gasoline,2000-12-16,2000-12-16
+260,Country,"Brock, Chad",A Country Boy Can Survive,2000-01-01,2000-01-08
+261,Country,"Cagle, Chris",My Love Goes On And On,2000-10-21,2000-12-02
+262,Country,"Byrd, Tracy",Put Your Hand In Mine,2000-01-29,2000-02-12
+263,Rock,Metallica,I Disappear,2000-05-13,2000-06-17
+264,Rap,Jay-Z,Hey Papi,2000-08-12,2000-10-07
+265,Electronica,Fatboy Slim,The Rockafeller Skank,1999-11-13,2000-01-22
+266,R&B,"Levert, Gerald",Mr. Too Damn Good,2000-03-18,2000-04-08
+267,Rock,"McKnight, Brian",Stay Or Let It Go,2000-02-26,2000-03-25
+268,Country,"Allan, Gary",Smoke Rings In The Dark,2000-01-22,2000-02-05
+269,Rock,Ginuwine,The Best Man I Can Be,2000-01-08,2000-03-04
+270,Rock,Before Dark,Monica,2000-05-20,2000-06-17
+271,Rock,"Estefan, Gloria",No Me Dejes De Querer,2000-06-10,2000-06-10
+272,Rock,Stone Temple Pilots,Sour Girl,2000-07-08,2000-07-29
+273,Country,Montgomery Gentry,Daddy Won't Sell The Farm,2000-03-04,2000-03-25
+274,Country,"Cyrus, Billy Ray",You Won't Be Lonely Now,2000-09-23,2000-11-11
+275,Country,Clark Family Experience,Meanwhile Back At The Ranch,2000-11-18,2000-12-16
+276,Rock,"Thomas, Carl",Summer Rain,2000-09-23,2000-10-14
+277,Country,"Yearwood, Trisha",Real Live Woman,2000-04-01,2000-04-29
+278,Rap,Trick Daddy,Shut Up,2000-05-20,2000-06-17
+279,Rock,"Moore, Chante",Straight Up,2000-10-28,2000-12-02
+280,Rap,Cam'ron,What Means The World To You,2000-10-14,2000-11-18
+281,Rap,Juvenile,U Understand,2000-02-05,2000-02-12
+282,Rock,"Hollister, Dave",Can't Stay,2000-03-25,2000-03-25
+283,Rock,Tamia,Can't Go For That,2000-09-16,2000-09-30
+284,Rock,LFO,West Side Story,2000-08-05,2000-08-12
+285,Country,"Paisley, Brad",Me Neither,2000-05-13,2000-05-20
+286,Rock,"Carter, Torrey",Take That,2000-06-24,2000-07-08
+287,R&B,2Ge+her,The Hardest Part Of Breaking Up (Is Getting Back Your Stuff),2000-09-02,2000-09-09
+288,Electronica,Madison Avenue,Don't Call Me Baby,2000-07-08,2000-09-16
+289,Rap,Eve,Got It All,2000-07-15,2000-07-22
+290,Rock,Limp Bizkit,Re-Arranged,1999-12-04,2000-02-05
+291,Rock,"Spencer, Tracie",Still In My Heart,2000-03-04,2000-03-11
+292,R&B,Nu Flavor,3 Little Words,2000-06-03,2000-06-17
+293,Rock,Tamar,If You Don't Wanna Love Me,2000-03-25,2000-04-15
+294,R&B,"Levert, Gerald",Baby U Are,2000-08-19,2000-08-26
+295,Country,"Hart, Beth",L.A. Song,1999-11-27,2000-01-15
+296,Country,"Diffie, Joe",The Quittin' Kind,2000-01-01,2000-01-22
+297,Rap,Funkmaster Flex,Do You,2000-11-11,2000-12-02
+298,Rock,"Price, Kelly",Love Sets You Free,2000-05-13,2000-05-20
+299,Rock,En Vogue,Riddle,2000-06-17,2000-06-17
+300,Country,"Herndon, Ty",No Mercy,2000-03-18,2000-05-06
+301,Pop,Anastacia,I'm Outta Love,2000-04-01,2000-04-01
+302,Rap,Trina,Pull Over,2000-09-09,2000-09-16
+303,Rap,Lil' Mo,Ta Da,2000-08-12,2000-09-16
+304,Pop,A*Teens,Dancing Queen,2000-07-08,2000-07-29
+305,Rap,"Sheist, Shade",Where I Wanna Be,2000-11-11,2000-11-18
+306,Rap,De La Soul,All Good?,2000-12-23,2000-12-23
+307,R&B,"Larrieux, Amel",Get Up,2000-03-04,2000-03-11
+308,Rock,"Braxton, Toni",Spanish Guitar,2000-12-02,2000-12-02
+309,Rock,Tuesday,I Know,2000-12-30,2000-12-30
+310,Rap,LL Cool J,Imagine That,2000-08-12,2000-08-19
+311,Rap,Master P,Souljas,2000-11-18,2000-11-18
+312,R&B,Ghostface Killah,Cherchez LaGhost,2000-08-05,2000-08-05
+313,Rap,"Smith, Will",Freakin' It,2000-02-12,2000-02-12
+314,Rock,Zombie Nation,Kernkraft 400,2000-09-02,2000-09-02
+315,Rap,"Eastsidaz, The",Got Beef,2000-07-01,2000-07-01
+316,R&B,Fragma,Toca's Miracle,2000-10-28,2000-10-28
